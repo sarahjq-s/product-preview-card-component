@@ -96,3 +96,7 @@ button {
     font-weight: 700;
     letter-spacing: 1px;
 }
+
+@media screen (max-width: 375px){
+   
+}
