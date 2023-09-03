@@ -75,6 +75,9 @@ I'm trying to learn the technical terms and how to communicate better. Moreover,
 
 I would appreciate feedback on a better solution on how to make and position the card component. I'm also learning a mobile-first approach and would like anyone to share any tip or their workflow. I had faced some challenges with this approach and although there was not a major change in the layout after completing the desktop layout, it would be helpful to know a better workflow.
 
+Thank you and Happy Coding!
+Sarah 
+
 ### Useful resources
 
 - [An Interactive Guide to Flexbox by Josh Comeau](https://www.joshwcomeau.com/css/interactive-guide-to-flexbox/) - This helped me understand flexbox better.
