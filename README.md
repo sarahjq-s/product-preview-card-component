@@ -2,8 +2,6 @@
 
 This is a solution to the [Product preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
- Live preview: [snazzy-moonbeam-30a84e](https://snazzy-moonbeam-30a84e.netlify.app/)https://snazzy-moonbeam-30a84e.netlify.app/
-
 ## Table of contents
 
 - [Overview](#overview)
@@ -42,7 +40,7 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [snazzy-moonbeam-30a84e](https://snazzy-moonbeam-30a84e.netlify.app/)https://snazzy-moonbeam-30a84e.netlify.app/
 
 ## My process
 
@@ -51,13 +49,7 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-- CSS Grid
 - Mobile-first workflow
-- [React](https://reactjs.org/) - JS library
-- [Next.js](https://nextjs.org/) - React framework
-- [Styled Components](https://styled-components.com/) - For styles
-
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
 
 ### What I learned
 
