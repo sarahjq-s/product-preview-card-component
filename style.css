@@ -9,7 +9,7 @@ body{
     background-color: hsl(30, 38%, 92%);
 }
 
-#container{
+/* #container{
     margin: 30px 16px;
     border: none;
     border-radius: 15px;
@@ -95,8 +95,105 @@ button {
     font-family: 'Montserrat', sans-serif;
     font-weight: 700;
     letter-spacing: 1px;
-}
+} */ */
 
-@media screen (max-width: 375px){
-   
-}
+/* @media screen (min-width: 1440px){ */
+    * #container{
+        display: flex;
+        
+        background-color: hsl(0, 0%, 100%);
+    }
+    #product-container{
+        display: flex;
+    }
+
+    img{
+        width: 250px;
+        border-top-left-radius: 10px;
+        border-top-right-radius: 10px;
+    }
+    #img-container{
+        display: flex;
+        /* align-items: center;
+        justify-content: center; */
+        border: 2px solid black;
+    }
+    #container-description{
+        height: 500px;
+        width: 250px;;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+        border: 2px solid black;
+    }
+    h2{
+        margin-top: 10px;
+        line-height: 1;
+        font-family: 'Fraunces', serif;
+        font-size: 2rem;
+        color: hsl(212, 21%, 14%);
+    }
+    
+    p{
+        margin-top: 20px;
+        font-family: 'Montserrat', sans-serif;
+        color: hsl(228, 12%, 48%);
+        font-weight: 500;
+    }
+    
+    #perfume{
+        letter-spacing: 5px;
+        font-size: 0.75rem;
+    }
+    
+    #para{
+        word-spacing: 5px;
+        font-size: 0.9rem;
+        line-height: 1.5;
+    
+    }
+    
+    #price-container{
+        display: flex;
+        align-items: center;
+        
+    }
+    
+    #sale-price{
+        font-size: 2rem;
+        font-family: 'Fraunces', serif;
+        font-weight: bold;
+        color: hsl(158, 36%, 37%);
+        margin-right: 15px;
+    }
+    
+    #orig-price{
+        font-size: 0.8rem;
+        text-decoration: line-through;
+    }
+    
+    #btn-container{
+        margin: 20px 2px;
+    }
+    
+    button img{
+        width: 16px;
+        margin-right: 8px;
+    }
+    
+    button {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin-bottom: 30px;
+        padding: 15px 50px;
+        background-color: hsl(158, 36%, 37%);
+        border: none;
+        border-radius: 5px;
+        width: 275px;
+        color: hsl(0, 0%, 100%);
+        font-family: 'Montserrat', sans-serif;
+        font-weight: 700;
+        letter-spacing: 1px;
+    } 
