@@ -116,7 +116,10 @@ button:hover{
     cursor: pointer;
     background-color: hsl(158, 36%, 20%);
 }
-
+footer{
+    text-align: center;
+    padding-bottom: 30px;
+}
 
 @media only screen and (max-width: 768px){
     #product-container{
@@ -147,23 +150,26 @@ button:hover{
     p{
         margin-top: 20px;  
     }
+
     #para{
         font-size: 0.875rem;
     }
 
     #perfume{
         margin-top: 3px;
-    
     }
 
     #price-container{
         margin: 1px 0;
-      
     }
 
     button {    
     border-radius: 8px;
     width: 300px;
     } 
+
+    footer{
+        font-size: 0.7rem;
+    }
 
 }
