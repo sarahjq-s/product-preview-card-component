@@ -71,7 +71,9 @@ for mobile layout
 
 ### Continued development
 
-I'm trying to learn the technical terms and how to communicate better. Moreover, I'm still struggling with flexbox but I'm slowly understanding the concept with this challenge. I used the Inspect Tool to assist me with understanding the design layout and the concept of flexbox. 
+I'm still learning the technical terms and how to communicate better. 
+
+I struggled with flexbox but I'm slowly understanding the concept with this challenge. I used the Inspect Tool to assist me with understanding the design layout and the concept of flexbox. 
 
 I would appreciate feedback on a better solution on how to make and position the card component. I'm also learning a mobile-first approach and would like anyone to share any tip or their workflow. I had faced some challenges with this approach and although there was not a major change in the layout after completing the desktop layout, it would be helpful to know a better workflow.
 
