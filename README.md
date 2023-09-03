@@ -6,7 +6,7 @@ This is my solution to the [Product preview card component challenge on Frontend
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
+  - [Video Preview](#video-preview)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
@@ -21,14 +21,13 @@ This is my solution to the [Product preview card component challenge on Frontend
 
 Users should be able to:
 
-- View the optimal layout depending on their device's screen size (Desktop and Mobile)
+- View the optimal layout depending on their device's screen size
 - See hover and focus states for interactive elements
 
-### Screenshot
+### Video Preview
 
-Mobile Layout
+[Responsive product card component.webm](https://github.com/sarahjq-s/product-preview-card-component/assets/127857067/153784af-9115-4c28-b9d4-837538d759a7)
 
-![Mobile](./images/screenshot/mobile.png)
 
 ### Links
 
@@ -46,7 +45,7 @@ Mobile Layout
 
 ### What I learned
 
-There were 2 provided images for the different layouts. I wasn't sure how I would place the images in the HTML to show in desktop and mobile views. I figured that I could make an id tag for the image then change the background images in the CSS. 
+There were 2 provided images for the different layouts. I wasn't sure how I would place the images in the HTML to show in the desktop and mobile views. I figured that I could make an id tag for the image then change the background images in the CSS. 
 ```html
 <div id="img-container"></div>
 ```
@@ -72,16 +71,16 @@ for mobile layout
 
 ### Continued development
 
-I'm trying to learn the technical terms and how to communicate better. Moreover, I'm still struggling with flexbox. I'm slowly understanding the concept with this challenge. Using the Inspect Tool assisted me with understanding the design layout and the concept of flexbox. 
+I'm trying to learn the technical terms and how to communicate better. Moreover, I'm still struggling with flexbox but I'm slowly understanding the concept with this challenge. I used the Inspect Tool to assist me with understanding the design layout and the concept of flexbox. 
 
-I would appreciate feedback on a better solution on how to make and position the card component. I'm also learning a mobile-first approach and would like anyone to share any tip or their workflow. I had faced some challenges with this approach and although there was not a major change in the layout after completing the desktop layout, it would be helpful to know a better workflow on a mobile-first approach.
+I would appreciate feedback on a better solution on how to make and position the card component. I'm also learning a mobile-first approach and would like anyone to share any tip or their workflow. I had faced some challenges with this approach and although there was not a major change in the layout after completing the desktop layout, it would be helpful to know a better workflow.
 
 ### Useful resources
 
-- [An Interactive Guide to Flexbox by Josh Comeau]([https://www.example.com](https://www.joshwcomeau.com/css/interactive-guide-to-flexbox/) - This helped me understand flexbox better.
+- [An Interactive Guide to Flexbox by Josh Comeau](https://www.joshwcomeau.com/css/interactive-guide-to-flexbox/) - This helped me understand flexbox better.
 
 ## Author
 
 - LinkedIn - [Sarah Saballa](https://www.linkedin.com/in/sarah-saballa-315053185/)
 - Frontend Mentor - [@sarahjq-s](https://www.frontendmentor.io/profile/sarahjq-s)
-- Instagram - [@sarahjq.s_dev](https://www.instagram.com/sarahjq.s_dev/)
+- Instagram - Documenting #100daysofCode- [@sarahjq.s_dev](https://www.instagram.com/sarahjq.s_dev/)
