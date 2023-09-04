@@ -28,7 +28,7 @@ Users should be able to:
 
 [Responsive product card component.webm](https://github.com/sarahjq-s/product-preview-card-component/assets/127857067/153784af-9115-4c28-b9d4-837538d759a7)
 
-[Responsive product card component](./images/responsive-product-card-component.webm)
+[Responsive product card component](/images/responsive-product-card-component.webm)
 
 
 ### Links
