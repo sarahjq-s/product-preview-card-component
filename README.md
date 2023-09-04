@@ -28,7 +28,9 @@ Users should be able to:
 
 [Responsive product card component](https://github.com/sarahjq-s/product-preview-card-component/assets/127857067/153784af-9115-4c28-b9d4-837538d759a7)
 
-![Responsive product card](/images/responsive-product-card-component.mp4)
+https://github.com/sarahjq-s/product-preview-card-component/assets/127857067/5103dbb1-7f70-47d2-844e-d9b1a6005c14
+
+
 
 
 ### Links
